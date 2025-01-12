@@ -1,0 +1,56 @@
+.one{
+    background-color: hsl(216, 50%, 16%);
+    height: 500px;
+    width: 350px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 8%;
+    padding-bottom: 100px;
+}
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 26px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+h2{
+    margin-left: 27px;
+}
+h4{
+    margin-left: 27px;
+}
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.infi{
+    margin-left: 27px;
+}
+.zero{
+    margin-right: 27px;
+}
+.avatarem{
+    display: flex;
+    align-items: center;
+}
+.avatar{
+    height: 50px;
+    width: 50px;
+    margin-top: 2px;
+    padding-bottom: 10px;
+}
+.opt{
+    height: 10px;
+    width: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 4px;
+}
+.wri{
+    margin-top: 5px;
+}
